@@ -1,0 +1,6 @@
+{
+  "name": "Briefly",
+  "description": "Smart, distraction-free modern news reader featuring breaking headlines, category feeds, offline bookmarks, reader mode customization, and audio text-to-speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
